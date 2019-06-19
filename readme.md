@@ -10,7 +10,7 @@ This data set contains 113,937 records of loans along with 81 variables on each 
 ##### 'CreditGrade', 'Term','BorrowerAPR', 'InterestRate', 'ProsperRatingAlpha', 'LoanStatus' and 'LoanOriginalAmount'.
 
 ### Support features:
-##### 'MonthlyLoanPayment', 'IncomeRange', 'EstimatedLoss' , 'BorrowerState', 'ProsperRatingNumeric' and more.
+##### 'MonthlyLoanPayment', 'IncomeRange', 'BorrowerState', 'ProsperRatingNumeric' and more.
  
 ## Summary of Findings
 
