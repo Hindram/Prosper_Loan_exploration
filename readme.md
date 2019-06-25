@@ -65,10 +65,10 @@ All investigated insight above will be represented in the presentation.
 
 
 ### Resources:
-https://www.udacity.com/
-https://en.wikipedia.org/wiki/Prosper_Marketplace
-https://www.lendingmemo.com/risk-grades-lending-club-prosper/
-https://help.lendingclub.com/hc/en-us/articles/216127747-What-is-the-difference-between-a-loan-that-is-in-default-and-a-loan-that-has-been-charged-off-
-https://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html
-https://matplotlib.org/api/text_api.html?highlight=get_text#matplotlib.text.Text
-https://datavizcatalogue.com/methods/violin_plot.html
+- https://www.udacity.com/
+- https://en.wikipedia.org/wiki/Prosper_Marketplace
+- https://www.lendingmemo.com/risk-grades-lending-club-prosper/
+- https://help.lendingclub.com/hc/en-us/articles/216127747-What-is-the-difference-between-a-loan-that-is-in-default-and-a-loan-that-has-been-charged-off-
+- https://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html
+- https://matplotlib.org/api/text_api.html?highlight=get_text#matplotlib.text.Text
+- https://datavizcatalogue.com/methods/violin_plot.html
